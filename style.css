@@ -1,0 +1,44 @@
+.heading{
+    text-align: left;
+    width: 100%;
+    border: 2px solid yellow;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 2px solid yellow;
+}
+.big_img{
+    width: 100%;
+}
+.sta{
+    background-color: burlywood;
+}
+#Play{
+    bottom: 0;
+    position: static;
+}
+h4{
+    background-color: blueviolet;
+    line-height: 2;
+    border-radius: 10px;
+    border: 2px solid yellow;
+    margin: 0px;
+    color: white;
+}
+.modal-dialog{
+    width: 80%;
+    border: 2px solid yellow;
+    border-radius: 10px;
+}
+canvas{
+    background-color: blueviolet;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px white;
+}
+.St, .Re{
+    font-size: 20px;
+    border: 2px solid yellow;
+}
